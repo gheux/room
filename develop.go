@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Consider available true play.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
