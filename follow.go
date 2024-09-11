@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Lot science item discover available.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
