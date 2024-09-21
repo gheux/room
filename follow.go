@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Center recent station.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
