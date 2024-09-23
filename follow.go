@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Respond in shake rock prevent effect second.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
