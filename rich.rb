@@ -11,3 +11,6 @@ puts "Hello, World!"
 
 # Technology everyone determine employee rather player national bit.
 puts "Hello, World!"
+
+# Card finish owner strong.
+puts "Hello, World!"
