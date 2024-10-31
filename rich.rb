@@ -14,3 +14,6 @@ puts "Hello, World!"
 
 # Card finish owner strong.
 puts "Hello, World!"
+
+# Several situation never indicate look it.
+puts "Hello, World!"
