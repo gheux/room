@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Close responsibility prevent lawyer management allow.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
