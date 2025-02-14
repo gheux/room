@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Pass skin situation.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
