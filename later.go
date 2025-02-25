@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Challenge resource guess side build wide prepare.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
